@@ -54,3 +54,5 @@ function print (value) {
 
 arr1.forEach(print)
 
+console.log();
+
